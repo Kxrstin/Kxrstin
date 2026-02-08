@@ -6,13 +6,18 @@
 ---
 
 ### 🛠 Tech Stack & Skills
-Kategorie,Tech Stack
-Languages,"Java, Python, C, SQL"
-Backend,"JDBC, Spring Boot, JUnit 5"
-Database,"PostgreSQL, MySQL, H2"
-Tools & DevOps,"Git, Docker, Maven, Gradle, Linux"
-Frontend,"HTML5, CSS3, JavaScript"
-
+* 💻 Languages: Java, Python, C, SQL
+* 🛠 Backend: Spring Boot, Spring Security, JDBC, JUnit 5, Mockito, REST APIs
+* 🗄 Database: PostgreSQL, MySQL, H2
+* 🔧 Tools & DevOps: Git, Docker, Maven, Gradle, Linux, GitHub Actions, IntelliJ IDEA
+* 🌐 Frontend: HTML5, CSS3, Thymeleaf
+  
+🧩 **Software Engineering Skills & Concepts:**  
+* Clean Code & Best Practices  
+* Onion Architecture / Layered Architecture  
+* Object-Oriented Programming (OOP) & Design Patterns  
+* Test-Driven Development (TDD) & Unit/Integration Testing  
+* Debugging & Problem Solving
 
 ---
 
