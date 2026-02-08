@@ -1,16 +1,31 @@
-## Hi there 👋
+-# Hi there, I'm Kerstin Neu 👋 
 
-<!--
-**Kxrstin/Kxrstin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science Student @ HHU Düsseldorf (5th Semester)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Skills
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) |
+| **Backend & DB** | **JDBC**, SQL (PostgreSQL/MySQL), Transaktionsmanagement |
+| **DevOps & Tools** | **Docker**, Gradle, Maven, Git, GitHub Actions |
+
+---
+
+### 🚀 Projects in Progress
+
+- **Rezept Welt** 🛠
+  - *Focus:* Web-App for recipe management
+  - *Tech:* Java, Spring Boot, JDBC, SQL, Flyway, Gradle
+  - [View Repository →](https://github.com/Kxrstin/rezept-welt)
+
+- **Exambyte** (Academic Project)
+    - *Focus:* Full-stack web application for managing exams and assessments
+    - *Tech:* Java, Spring Boot, JDBC, SQL, Flyway, Gradle, Spring Security (OAuth2)
+    - [View Repository →](https://github.com/Kxrstin/exambyte)
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Kxrstin&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
