@@ -1,7 +1,7 @@
-#### Hi there, I'm Kerstin Neu 👋 
----
-
-### 🎓 Computer Science Student @ HHU Düsseldorf (5th Semester)
+<div align="center">
+  <h1>👋 Hi there, I'm [Dein Name]</h1>
+  <p>🎓 Computer Science student at HHU Düsseldorf (5th semester)</p>
+</div>
 
 ---
 
