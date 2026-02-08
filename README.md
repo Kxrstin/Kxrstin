@@ -1,4 +1,5 @@
--# Hi there, I'm Kerstin Neu 👋 
+#### Hi there, I'm Kerstin Neu 👋 
+---
 
 ### 🎓 Computer Science Student @ HHU Düsseldorf (5th Semester)
 
@@ -25,7 +26,3 @@
     - *Focus:* Full-stack web application for managing exams and assessments
     - *Tech:* Java, Spring Boot, JDBC, SQL, Flyway, Gradle, Spring Security (OAuth2)
     - [View Repository →](https://github.com/Kxrstin/exambyte)
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Kxrstin&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
