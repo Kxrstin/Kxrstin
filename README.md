@@ -6,12 +6,13 @@
 ---
 
 ### 🛠 Tech Stack & Skills
+Kategorie,Tech Stack
+Languages,"Java, Python, C, SQL"
+Backend,"JDBC, Spring Boot, JUnit 5"
+Database,"PostgreSQL, MySQL, H2"
+Tools & DevOps,"Git, Docker, Maven, Gradle, Linux"
+Frontend,"HTML5, CSS3, JavaScript"
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) |
-| **Backend & DB** | **JDBC**, SQL (PostgreSQL/MySQL), Transaktionsmanagement |
-| **DevOps & Tools** | **Docker**, Gradle, Maven, Git, GitHub Actions |
 
 ---
 
