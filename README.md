@@ -8,7 +8,7 @@
 ### 🛠 Tech Stack & Skills
 * 💻 Languages: Java, Python, C, SQL
 * 🛠 Backend: Spring Boot, Spring Security, JDBC, JUnit 5, Mockito, REST APIs
-* 🗄 Database: PostgreSQL, MySQL, H2
+* 🗄 Database: PostgreSQL, MySQL, H2, PL/pgSQL
 * 🔧 Tools & DevOps: Git, Docker, Maven, Gradle, Linux, GitHub Actions, IntelliJ IDEA
 * 🌐 Frontend: HTML5, CSS3, Thymeleaf
   
@@ -25,10 +25,15 @@
 
 - **Rezept Welt** 🛠
   - *Focus:* Web-App for recipe management
-  - *Tech:* Java, Spring Boot, JDBC, SQL, Flyway, Gradle
+  - *Tech:* Java, Spring Boot, JDBC, SQL, Flyway, Gradle, Docker
   - [View Repository →](https://github.com/Kxrstin/rezept-welt)
 
 - **Exambyte** (Academic Project)
     - *Focus:* Full-stack web application for managing exams and assessments
-    - *Tech:* Java, Spring Boot, JDBC, SQL, Flyway, Gradle, Spring Security (OAuth2)
+    - *Tech:* Java, Spring Boot, JDBC, SQL, Flyway, Gradle, Spring Security (OAuth2), Docker
     - [View Repository →](https://github.com/Kxrstin/exambyte)
+
+- **TriggerTrade-API** (Academic Project)
+    - *Focus:* A robust REST API for e-commerce, focusing on database-level integrity through native JDBC and automated PL/pgSQL triggers
+    - *Tech:* Java, JDBC, Spring Boot, PostgreSQL, PL/pgSQL, Docker 
+    - [View Repository →](https://github.com/Kxrstin/TriggerTrade-API)
