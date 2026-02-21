@@ -7,10 +7,11 @@
 
 ### 🛠 Tech Stack & Skills
 * 💻 Languages: Java, Python, C, SQL
-* 🛠 Backend: Spring Boot, Spring Security, JDBC, JUnit 5, Mockito, REST APIs, PyTorch
+* 🛠 Backend: Spring Boot, Spring Security, JDBC, JUnit 5, Mockito, REST APIs
 * 🗄 Database: PostgreSQL, MySQL, H2, PL/pgSQL
-* 🔧 Tools & DevOps: Git, Docker, Maven, Gradle, Linux, GitHub Actions, IntelliJ IDEA, pandas, NumPy
+* 🔧 Tools & DevOps: Git, Docker, Maven, Gradle, Linux, GitHub Actions, IntelliJ IDEA
 * 🌐 Frontend: HTML5, CSS3, Thymeleaf
+* 📊 Deep Learning / Data Analysis: PyTorch, pandas, NumPy, matplotlib, scikit-learn
   
 🧩 **Software Engineering Skills & Concepts:**  
 * Clean Code & Best Practices  
