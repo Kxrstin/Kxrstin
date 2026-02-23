@@ -38,3 +38,9 @@
     - *Focus:* A robust REST API for e-commerce, focusing on database-level integrity through native JDBC and automated PL/pgSQL triggers
     - *Tech:* Java, JDBC, Spring Boot, PostgreSQL, PL/pgSQL, Docker 
     - [View Repository →](https://github.com/Kxrstin/TriggerTrade-API)
+ 
+- **Generative Model**
+    - *Focus:* Implementation of a Variational Autoencoder (VAE) trained on the Fashion-MNIST dataset, followed by the generation of new images
+    - *Tech:* Python, PyTorch, NumPy, matplotlib, torchvision
+    - [View Repository →](https://github.com/Kxrstin/fashion-mnist-generative-models)
+
