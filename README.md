@@ -28,16 +28,19 @@
   - *Focus:* Web-App for recipe management
   - *Tech:* Java, Spring Boot, JDBC, SQL, Flyway, Gradle, Docker
   - [View Repository →](https://github.com/Kxrstin/rezept-welt)
+    
 
 - **Exambyte** 
     - *Focus:* Full-stack web application for managing exams and assessments
     - *Tech:* Java, Spring Boot, JDBC, SQL, Flyway, Gradle, Spring Security (OAuth2), Docker
     - [View Repository →](https://github.com/Kxrstin/exambyte)
+      
 
 - **TriggerTrade-API**
     - *Focus:* A robust REST API for e-commerce, focusing on database-level integrity through native JDBC and automated PL/pgSQL triggers
     - *Tech:* Java, JDBC, Spring Boot, PostgreSQL, PL/pgSQL, Docker 
     - [View Repository →](https://github.com/Kxrstin/TriggerTrade-API)
+      
  
 - **Generative Model**
     - *Focus:* Implementation of a Variational Autoencoder (VAE) trained on the Fashion-MNIST dataset, followed by the generation of new images
