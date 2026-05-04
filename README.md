@@ -16,7 +16,7 @@
 🧩 **Software Engineering Skills & Concepts:**  
 * Clean Code & Best Practices  
 * Onion Architecture / Layered Architecture  
-* Object-Oriented Programming (OOP) & Design Patterns  
+* Object-Oriented Programming (OOP)  
 * Test-Driven Development (TDD) & Unit/Integration Testing  
 * Debugging & Problem Solving
 
